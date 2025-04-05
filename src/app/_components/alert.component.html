@@ -1,0 +1,9 @@
+<div *ngif="alerts. lenght" class="container">
+    <div class="m-3">
+  <div *ngfor="let alert of alerts" class="{{cssClasses(alert)}}">
+    <a class="close" (click)="removeAlert(alert)">&time;</a>
+    <span [innerHTML]="alert.message"></span>
+
+    </div>   
+   </div>
+</div>
