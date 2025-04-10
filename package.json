@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "description": "An updated Angular boilerplate project",
   "main": "index.js",
-  "author": "Castillo & Langomez",
+  "author": "Canete & Roldan",
   "license": "ISC",
   "scripts": {
     "ng": "ng",

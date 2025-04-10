@@ -10,15 +10,15 @@ Built with **Node.js** and **MySQL** for the backend and **Angular** for the fro
 A fully functional Angular boilerplate app runs with email sign-up and verification, JWT authentication with fresh tokens, Role-based authorization, Profile management, Admin dashboard, and Fake backend implementation for backend-less development. 
 
 This project is developed by:
-- **Clint Brian Castillo**
-- **Ivan Rey Langomez**
+- **CANETE**
+- **ROLDAN**
 
 ---
 
 
 ## Installation
    1. Clone the repository:
-        git clone https://github.com/Rodriguez1718/Angular-10-17-updated-Boilerplate to an external site.
+        git clone https://github.com/JJAYTECH/user-management-system.git to an external site.
    2. Install dependencies:
         npm install
    3. Start the backend server:
